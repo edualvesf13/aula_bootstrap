@@ -47,3 +47,17 @@
     width: 200px;
     margin: 15px 0;
 }
+#servicos{
+    padding: 50px 0px;
+    background-color: var(--gray-dark);
+    color: var(--light);
+}
+#servicos img{
+    width: 400px;
+    margin: 15px 0;
+    border-radius: 10px;
+    transition: .5s;
+}
+#servicos img:hover{
+    opacity: .5;
+}
