@@ -40,3 +40,10 @@
 #quem-somos p{
     font-size: 20px;
 }
+#parceiros{
+    padding: 50px 0px;
+}
+#parceiros img{
+    width: 200px;
+    margin: 15px 0;
+}
